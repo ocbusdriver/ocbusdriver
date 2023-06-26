@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning hybrid migrations
 - 💞️ I’m looking to collaborate on pen testing 
 - 📫 How to reach me ..@ttylorlando@gmail
+- 👀 wifi
 
 <!---
 ocbusdriver/ocbusdriver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
